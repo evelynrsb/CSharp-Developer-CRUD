@@ -1,0 +1,4 @@
+C:\Users\evelyn\Documents\GitHub\CSharp-Developer-CRUD\ECommerce\ECommerceWebApi\obj\Debug\netcoreapp2.2\ECommerceWebApi.csprojAssemblyReference.cache
+C:\Users\evelyn\Documents\GitHub\CSharp-Developer-CRUD\ECommerce\ECommerceWebApi\obj\Debug\netcoreapp2.2\ECommerceWebApi.AssemblyInfoInputs.cache
+C:\Users\evelyn\Documents\GitHub\CSharp-Developer-CRUD\ECommerce\ECommerceWebApi\obj\Debug\netcoreapp2.2\ECommerceWebApi.AssemblyInfo.cs
+C:\Users\evelyn\Documents\GitHub\CSharp-Developer-CRUD\ECommerce\ECommerceWebApi\obj\Debug\netcoreapp2.2\ECommerceWebApi.csproj.CoreCompileInputs.cache
