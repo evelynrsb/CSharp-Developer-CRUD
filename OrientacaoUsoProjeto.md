@@ -3,7 +3,7 @@
 Solução ECommerce
 Projetos independentes de execução e criam a estrutura do banco de dados.
 
-•	Projeto ECommerceMVC
+###	Projeto ECommerceMVC
 
 *	Banco de Dados – MySQL Server
 *	Necessidade de alteração da string de conexão no arquivo appsettings.json
@@ -12,7 +12,7 @@ Projetos independentes de execução e criam a estrutura do banco de dados.
 *	Execute o projeto.
 *	Será carregada a página contendo os produtos permitindo o cadastro, exclusão, inclusão e visualização.
 
-•	Projeto ECommerceWebAPI
+###	Projeto ECommerceWebAPI
 
 *	Banco de Dados – MySQL Server
 *	Necessidade de alteração da string de conexão no arquivo appsettings.json
